@@ -36,6 +36,6 @@ The code then permits to apply sentiment analysis for each cluster:
 ![bild](https://user-images.githubusercontent.com/37995197/117961783-ca56a980-b31e-11eb-9492-2b7014f59adc.png)
 
 
-To go further, the keyword women was chosen and the same methods were applied. Then, a comparison between the different clusters and sentiment analysis applied to each clusetr can provide some elements of explanation of how are frames conversations on reddit about "women" and "men".
+To go further, the keyword "women" was chosen and the exact same methods were applied to the new data-set. Then, a comparison between the different clusters and sentiment analysis applied to each clusetr can provide some elements of explanation of how conversations on reddit about "women" and "men" are framed.
 
 
