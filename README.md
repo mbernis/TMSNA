@@ -26,7 +26,7 @@ The code then permits to apply sentiment analysis for each cluster:
 ![bild](https://user-images.githubusercontent.com/37995197/117961728-bb6ff700-b31e-11eb-9f48-b26f98c08246.png)
 
 
-**Cluster 2: **
+**Cluster 2:**
 
 ![bild](https://user-images.githubusercontent.com/37995197/117961755-c32f9b80-b31e-11eb-93da-1f432200ff3f.png)
 
