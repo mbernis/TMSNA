@@ -20,13 +20,22 @@ The 15 top values were retrieved. Two clusters only were not satisfying, and aft
 
 The code then permits to apply sentiment analysis for each cluster:
 
-Cluster 1:
+
+**Cluster 1:**
+
 ![bild](https://user-images.githubusercontent.com/37995197/117961728-bb6ff700-b31e-11eb-9f48-b26f98c08246.png)
 
 
-Cluster 2: 
+**Cluster 2: **
+
 ![bild](https://user-images.githubusercontent.com/37995197/117961755-c32f9b80-b31e-11eb-93da-1f432200ff3f.png)
 
 
-Cluster 3:
+**Cluster 3:**
+
 ![bild](https://user-images.githubusercontent.com/37995197/117961783-ca56a980-b31e-11eb-9492-2b7014f59adc.png)
+
+
+To go further, the keyword women was chosen and the same methods were applied. Then, a comparison between the different clusters and sentiment analysis applied to each clusetr can provide some elements of explanation of how are frames conversations on reddit about "women" and "men".
+
+
